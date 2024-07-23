@@ -230,12 +230,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-02-23 14:45:00 +0800"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-02-23 14:44:58 +0800"
@@ -247,6 +241,12 @@
       "entered_nether": "2024-02-23 14:44:58 +0800"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-02-23 14:45:00 +0800"
+    },
+    "done": false
   },
   "DataVersion": 3578
 }

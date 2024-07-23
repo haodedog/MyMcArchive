@@ -116,15 +116,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "naturescompass:natures_compass_log": {
     "criteria": {
-      "has_stick": "2024-02-02 22:45:48 +0800"
+      "has_recipe": "2024-02-02 22:45:27 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "has_logs": "2024-02-02 22:47:28 +0800"
+      "has_sapling": "2024-02-02 22:45:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-02-02 22:45:48 +0800"
     },
     "done": true
   },
@@ -140,21 +146,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-02-02 22:47:28 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-02-02 22:45:48 +0800"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-02-02 22:45:27 +0800"
     },
     "done": true
   },
@@ -170,9 +164,21 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_sapling": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_sapling": "2024-02-02 22:45:27 +0800"
+      "has_stick": "2024-02-02 22:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-02-02 22:47:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-02-02 22:47:28 +0800"
     },
     "done": true
   },
@@ -182,9 +188,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "ams:root": {
     "criteria": {
-      "has_stick": "2024-02-02 22:45:48 +0800"
+      "tick": "2024-07-20 12:21:31 +0800"
     },
     "done": true
   },

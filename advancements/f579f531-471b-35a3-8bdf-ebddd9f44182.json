@@ -12,15 +12,15 @@
     },
     "done": false
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-07-05 00:59:35 +0800"
-    },
-    "done": true
-  },
   "ams:root": {
     "criteria": {
       "tick": "2024-07-05 00:59:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-07-05 00:59:35 +0800"
     },
     "done": true
   },
