@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-07-28 22:04:01 +0800",
       "minecraft:swamp": "2022-07-29 08:58:44 +0800",
       "minecraft:savanna": "2024-01-27 01:17:37 +0800",
       "minecraft:plains": "2023-06-30 15:56:19 +0800",
