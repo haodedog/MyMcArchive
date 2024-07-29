@@ -279,6 +279,8 @@
       "cooked_porkchop": "2023-11-12 11:09:35 +0800",
       "apple": "2023-12-29 20:58:08 +0800",
       "rotten_flesh": "2023-12-31 13:01:28 +0800",
+      "cooked_mutton": "2024-07-30 00:17:03 +0800",
+      "cooked_beef": "2024-07-29 23:50:04 +0800",
       "tropical_fish": "2024-07-05 17:29:29 +0800"
     },
     "done": false
@@ -659,6 +661,7 @@
       "minecraft:zombified_piglin": "2023-11-12 11:49:22 +0800",
       "minecraft:witch": "2023-12-30 00:53:30 +0800",
       "minecraft:ravager": "2024-07-25 18:55:11 +0800",
+      "minecraft:husk": "2024-07-30 00:56:34 +0800",
       "minecraft:vindicator": "2023-12-30 00:53:18 +0800",
       "minecraft:enderman": "2023-12-31 10:23:38 +0800",
       "minecraft:spider": "2024-07-28 16:29:25 +0800",
@@ -2151,6 +2154,8 @@
     "criteria": {
       "minecraft:calico": "2024-07-05 17:59:49 +0800",
       "minecraft:siamese": "2024-07-05 18:02:22 +0800",
+      "minecraft:persian": "2024-07-30 00:25:53 +0800",
+      "minecraft:all_black": "2024-07-30 00:25:39 +0800",
       "minecraft:british_shorthair": "2024-07-05 18:04:45 +0800",
       "minecraft:red": "2024-07-05 17:59:43 +0800"
     },
@@ -2700,6 +2705,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-20 14:06:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-07-30 00:24:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-07-30 00:24:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-07-30 00:24:54 +0800"
     },
     "done": true
   },
